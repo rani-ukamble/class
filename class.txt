@@ -1,0 +1,4 @@
+Blotch_Apple
+Normal_Apple
+Rot_Apple
+Scab_Apple
